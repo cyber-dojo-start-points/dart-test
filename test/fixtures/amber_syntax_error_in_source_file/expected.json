@@ -1,0 +1,7 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^  error - lib/hiker\\.dart:2:14 - Expected to find ';'\\. - expected_token$": 1,
+    "tests (passed|failed)": 0
+  }
+}

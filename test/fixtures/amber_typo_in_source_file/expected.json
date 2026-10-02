@@ -1,0 +1,5 @@
+{
+  "max_output_lines": 12,
+  "truncated": false,
+  "matches": [ "^  error - lib/hiker\\.dart:2:3 - " ]
+}

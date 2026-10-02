@@ -1,0 +1,6 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^00:00 \\+2 -1: Some tests failed\\.$": 1
+  }
+}

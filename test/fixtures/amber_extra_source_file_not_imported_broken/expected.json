@@ -1,0 +1,7 @@
+{
+  "truncated": false,
+  "matches": [ "^  error - lib/six\\.dart:2:" ],
+  "match_counts": {
+    "All tests passed": 0
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "truncated": false,
+  "matches": [ "^  error - test/hiker_test\\.dart:6:12 - The function 'answr' isn't defined\\." ],
+  "match_counts": {
+    "tests (passed|failed)": 0
+  }
+}

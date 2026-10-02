@@ -1,0 +1,29 @@
+{
+  "display_name": "Dart 3.13, test 1.32",
+  "language": [
+    "Dart",
+    "3.13"
+  ],
+  "test_framework": [
+    "test",
+    "1.32"
+  ],
+  "image_name": "ghcr.io/cyber-dojo-languages/dart_test:517bff8",
+  "visible_filenames": [
+    "test/hiker_test.dart",
+    "test/expect_matchers_test.dart",
+    "lib/hiker.dart",
+    "pubspec.yaml",
+    "cyber-dojo.sh"
+  ],
+  "rag_lambda": "red_amber_green.rb",
+  "filename_extension": [
+    ".dart"
+  ],
+  "progress_regexs": [
+    "\\+\\d+( ~\\d+)? -\\d+: Some tests failed\\.",
+    "\\+\\d+( ~\\d+)?: All tests passed!"
+  ],
+  "max_seconds": 10,
+  "tab_size": 2
+}

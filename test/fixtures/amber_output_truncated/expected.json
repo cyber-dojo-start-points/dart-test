@@ -1,0 +1,7 @@
+{
+  "truncated": true,
+  "match_counts": {
+    "^debug: i is 0, total is 0$": 1,
+    "Some tests failed": 0
+  }
+}

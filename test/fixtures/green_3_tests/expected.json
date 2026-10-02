@@ -1,0 +1,7 @@
+{
+  "max_output_lines": 7,
+  "truncated": false,
+  "match_counts": {
+    "^00:00 \\+3: All tests passed!$": 1
+  }
+}

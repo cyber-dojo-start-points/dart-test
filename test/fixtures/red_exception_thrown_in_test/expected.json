@@ -1,0 +1,7 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^  Bad state: no towel$": 1,
+    "^00:00 \\+0 -1: Some tests failed\\.$": 1
+  }
+}

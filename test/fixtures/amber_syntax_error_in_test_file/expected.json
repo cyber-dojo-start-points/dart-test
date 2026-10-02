@@ -1,0 +1,7 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^  error - test/hiker_test\\.dart:6:32 - Expected to find ';'\\. - expected_token$": 1,
+    "tests (passed|failed)": 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 6,
+  "truncated": false,
+  "matches": [ "^00:00 \\+[0-9]+: test/unit/answer_size_test\\.dart: the answer is less than 100$" ],
+  "match_counts": {
+    "^00:00 \\+2: All tests passed!$": 1
+  }
+}

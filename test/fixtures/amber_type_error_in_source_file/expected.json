@@ -1,0 +1,7 @@
+{
+  "truncated": false,
+  "matches": [ "^  error - lib/hiker\\.dart:2:10 - " ],
+  "match_counts": {
+    "tests (passed|failed)": 0
+  }
+}

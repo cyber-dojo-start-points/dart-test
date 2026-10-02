@@ -1,0 +1,6 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^00:00 \\+0 ~1: All tests skipped\\.$": 1
+  }
+}

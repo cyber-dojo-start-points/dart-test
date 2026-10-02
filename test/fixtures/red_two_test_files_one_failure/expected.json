@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "Some tests failed": 1,
+    "^00:00 \\+1 -1: Some tests failed\\.$": 1,
+    "^  test/hiker_test\\.dart: life, the universe and everything$": 1
+  }
+}

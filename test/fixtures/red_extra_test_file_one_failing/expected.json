@@ -1,0 +1,7 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^00:00 \\+1 -1: Some tests failed\\.$": 1,
+    "^  test/answer_size_test\\.dart: the answer is less than 10$": 1
+  }
+}
