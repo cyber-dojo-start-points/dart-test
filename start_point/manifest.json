@@ -8,7 +8,7 @@
     "test",
     "1.32"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/dart_test:517bff8",
+  "image_name": "ghcr.io/cyber-dojo-languages/dart_test:0343d7b",
   "visible_filenames": [
     "test/hiker_test.dart",
     "test/expect_matchers_test.dart",
