@@ -24,6 +24,5 @@
     "\\+\\d+( ~\\d+)? -\\d+: Some tests failed\\.",
     "\\+\\d+( ~\\d+)?: All tests passed!"
   ],
-  "max_seconds": 10,
   "tab_size": 2
 }
